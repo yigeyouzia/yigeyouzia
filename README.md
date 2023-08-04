@@ -2,10 +2,9 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://yigeyouzia.github.io/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小柚同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.lo(%22Hello🎆%22);小柚同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-
 </div>
 
 # 🙋 Hello
@@ -26,7 +25,14 @@
 
 <!--  skill badge 技能徽章 -->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yigeyouzia&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yigeyouzia&theme=dark&layout=compact&hide=css,html)
+
+<!-- 推荐 -->
+<div align="center">
+  <a href="https://github.com/yigeyouzia">  <!--statics主页地址，可修改-->
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yigeyouzia&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>   <!--可修改-->
+  </a>
+</div>
 
 💪 正在学习
 
@@ -57,7 +63,7 @@
 
 <!-- programming tool icon 编程工具图标 -->
 
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<img src="https://skillicons.dev/icons?i=java,spring,redis,mysql,c,cpp,ts,discord,mongodb,idea,vscode,git" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -82,9 +88,9 @@
 
 <img  src="https://github-profile-trophy.vercel.app/?username=yigeyouzia&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
-<!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yigeyouzia&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigeyouzia&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
+<!-- GitHub 数据统计 pr次数-->
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigeyouzia&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&hide=html,css" /><br><br>
 
 <!-- Wakatime Graph-->
 <table>
