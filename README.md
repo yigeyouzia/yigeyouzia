@@ -24,16 +24,15 @@
 <div align="center">
 
 <!--  skill badge 技能徽章 -->
-<div align="center">
-  
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yigeyouzia&theme=dark&layout=compact&hide=css,html)
+<div align="center" style={display: flex}>
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yigeyouzia&theme=dark&layout=compact&hide=css,html)
 
 <!-- 推荐 -->
 
-  <a href="https://github.com/yigeyouzia"> <!--statics主页地址，可修改-->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?        
-    username=yigeyouzia&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues" width="400px"/> <!--可修改-->
-  </a>
+<a href="https://github.com/yigeyouzia"> <!--statics主页地址，可修改-->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yigeyouzia&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues" width="400px" height="165px" /> <!--可修改-->
+</a>
 
 </div>
 
